@@ -27,6 +27,9 @@ body {
 #about a i.fa-twitter {
   color: #1da1f2;
 }
+#about a i.fa-paypal {
+  color: #0D3685;
+}
 
 #content {
   position: relative;
